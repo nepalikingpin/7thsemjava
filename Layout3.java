@@ -21,8 +21,8 @@ class Layout3 extends JFrame
         c.add(b1,BorderLayout.PAGE_START);
         c.add(b2,BorderLayout.PAGE_END);
         c.add(b3,BorderLayout.LINE_START);
-        c.add(b4,BorderLayout.LINE_END);
-        c.add(b5,BorderLayout.CENTER);
+        c.add(b4,BorderLayout.CENTER);
+        c.add(b5,BorderLayout.LINE_END);
         
     }
 
