@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Split",
+            "request": "launch",
+            "mainClass": "Split",
+            "projectName": "7thsemjava_c34598eb"
+        },
+        {
+            "type": "java",
             "name": "Launch Tabbed",
             "request": "launch",
             "mainClass": "Tabbed",
