@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Tabbed",
+            "request": "launch",
+            "mainClass": "Tabbed",
+            "projectName": "7thsemjava_c34598eb"
+        },
+        {
+            "type": "java",
             "name": "Launch Layout4",
             "request": "launch",
             "mainClass": "Layout4",
